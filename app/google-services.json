@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275401275778",
+    "firebase_url": "https://drmonitor-54ae7-default-rtdb.firebaseio.com",
+    "project_id": "drmonitor-54ae7",
+    "storage_bucket": "drmonitor-54ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275401275778:android:7df646a8455f485464779b",
+        "android_client_info": {
+          "package_name": "com.example.dr_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275401275778-g22vgq22va4cmcgt1r99frojn8m76gon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1HktmKZK84MrkxC-FcS7O2ICgO_DzZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275401275778-g22vgq22va4cmcgt1r99frojn8m76gon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
